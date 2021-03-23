@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//      initializing button and view
+//      initializing button and animation view
         lottieAnimationView = findViewById(R.id.animationView);
         button = findViewById(R.id.btn);
 
